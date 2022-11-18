@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ÄãºÃÊÀ½ç
+=======
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+china love us
+>>>>>>> parent of a785a59 (Update b.txt)
